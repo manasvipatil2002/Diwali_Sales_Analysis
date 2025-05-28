@@ -4,8 +4,8 @@
 
 Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one of the core components of data science. It is also the part on the majority of the time which makes it extremely important in the field of data science. This repository demonstrates Exploratory Data Analysis methods and techniques using Python. The purpose of the used Diwali Sales dataset has been taken from Kaggle since it is one of the ideal dataset for performing EDA and taking a step towards the most amazing and interesting field of data science. Good luck with your EDA on the used Diwali Sales dataset.
 
- 
-<img src="![diwali 2 imgs](https://github.com/user-attachments/assets/5cdf3229-1d08-46f2-86c6-de6b861d8f50)" width=1000>
+
+<img src="https://www.stocksbnb.com/wp-content/uploads/2021/08/airbnb-678x381-1.png" width=1000>
 
 
 ## Project Description :-
@@ -31,7 +31,11 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 
 ## Recommendation :
 1.Optimize inventory for high-demand categories in future Diwali seasons.
+
 2.Target ads for different customer segments based on past behavior.
-3.Improve logistics planning to handle peak delivery loads efficiently.
+
+3.Improve logistics planning to handle peak delivery loads efficiently
+
 4.Focus marketing efforts on high-performing channels (email, push notifications).
+
 5.Explore new growth opportunities in Tier 2/3 cities.
