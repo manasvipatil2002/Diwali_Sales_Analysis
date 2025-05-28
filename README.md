@@ -19,9 +19,13 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 
 ## Insights :
 1. Peak Sales Days: Identified the top-performing days during the Diwali sale period.
+   
 2.Revenue Growth: Observed a 25% increase in sales during Diwali week compared to the previous month.
+
 3.Average Order Value (AOV): Increased AOV during Diwali, indicating customers are willing to spend more.
+
 4.Top Customer Segments: High-value customers were predominantly in the 25-45 age group.
+
 5.Gender-based Trends: Women shoppers dominated categories like fashion and home décor, while men leaned toward electronics.
 
 
