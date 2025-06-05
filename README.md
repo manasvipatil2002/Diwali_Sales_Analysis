@@ -18,7 +18,7 @@ Data Analysis or sometimes referred to as exploratory data analysis (EDA) is one
 
 
 ## Insights :-
-1. Peak Sales Days: Identified the top-performing days during the Diwali sale period.
+1. Peak Sales Days: Identified the top-performing days during the Diwali sale period. 
    
 2.Revenue Growth: Observed a 25% increase in sales during Diwali week compared to the previous month.
 
